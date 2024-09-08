@@ -58,3 +58,6 @@ Here is what we expect our App to show:
 ```
 
 I didn't want to spend too long on this as tbh I just wanted to prove I could get something working in a similar time to the test. I'm happy with this outcome.
+
+![Screenshot 2024-09-08 at 17 55 53](https://github.com/user-attachments/assets/c912da61-0812-41ac-a03a-2443caa5b820)
+
