@@ -57,9 +57,4 @@ Here is what we expect our App to show:
 </div>
 ```
 
-Usage
-To start the application you need to build it first:
-
-npm install
-npm run start
-You are free to code and run the application using any IDE/text editor of your choice. You can search the web for information as you'd do in normal work day or ask your interviewers for help and collaboration.
+I didn't want to spend too long on this as tbh I just wanted to prove I could get something working in a similar time to the test. I'm happy with this outcome.
