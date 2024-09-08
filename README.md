@@ -1,6 +1,6 @@
 # technical-interview-question
 
-So I recently undertook a technical interview for a large company in the UK (They shall remain nameless as I wouldn't want to reveal their process). I made a bit of a mess of this technical interview and so I thought as a way of feeling better, I'd finish the challenge in the best way possible. Big learning lession from this process. Don't be suprised if the challenge set is way more basic than you envisage, relax and do your best!
+So I recently undertook a technical interview for a large company in the UK (They shall remain nameless as I wouldn't want to reveal their process). I made a bit of a mess of this technical interview and so I thought as a way of feeling better, I'd finish the challenge in the best way possible. Big learning lesson from this process. Don't be suprised if the challenge set is way more basic than you envisage, relax and do your best!
 
 # Image Finder
 
