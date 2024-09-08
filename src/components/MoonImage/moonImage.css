@@ -10,6 +10,7 @@ $color-primary-white: rgb(240, 240, 240); */
   position: relative;
   color: grey;
   box-shadow: 0 10px 30px 5px rgba(0, 0, 0, 0.2);
+  margin: 20px;
  
   img {
     position: absolute;
